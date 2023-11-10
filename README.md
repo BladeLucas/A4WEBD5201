@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Resources:
+ - https://dev.to/kjdowns/creating-a-user-login-system-ruby-on-rails-2kl2
