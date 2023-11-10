@@ -18,9 +18,10 @@
 /* Add your CSS styles here */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: blanchedalmond;
     margin: 0;
     padding: 0;
+    text-align: center;
   }
   
   header {
@@ -36,6 +37,7 @@ body {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align: left;
   }
   
   /* Add more styles as needed */
